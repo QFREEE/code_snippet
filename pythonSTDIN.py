@@ -1,5 +1,5 @@
 def get_input_stacks():
-    n = int(input())
+    n = int(input()) #denote number of lines to read
     stacks = []
     for _ in range(n):
         str_stack = input().split(' ')
