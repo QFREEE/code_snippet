@@ -40,3 +40,10 @@ powerful functionality with simple interfaces
 - garbage collector 
 
 Classitis may result in classes that are individually simple, but it increases the complexity of the overall system.
+
+The most important issue in designing classes and other modules is to make them deep, so that they have simple interfaces for the common use cases, yet still provide significant functionality. 
+
+### Chapter 5: information Hiding (and Leakage)
+##### information hiding
+- hide implementation details
+-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
